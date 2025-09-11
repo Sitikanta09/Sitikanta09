@@ -5,7 +5,7 @@
 <h3><em>Aspiring Software Engineer | Java Enthusiast | Frontend Developer</em></h3>
 
 <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Java_&_Frontend-blue" alt="Focus" />
 
 </div>
 
@@ -15,30 +15,45 @@
 
 <div align="center">
   <ul align="left">
-    <li>Developing projects in <b>Machine Learning</b> & <b>Software Engineering</b></li>
-    <li>Building a robust foundation to excel as a <b>Software Engineer</b></li>
+    <li>Developing robust projects in <b>Java & Frontend Development</b></li>
+    <li>Building a strong foundation in <b>Software Engineering</b> principles</li>
+    <li>Enhancing problem-solving skills through <b>Data Structures & Algorithms</b></li>
   </ul>
 </div>
+
+---
 
 ## 🌱 Currently Learning
 
 <div align="center">
   <ul align="left">
-    <li>Mastering <b>Frontend Development</b> with Java</li>
-    <li>Solving complex problems through <b>Data Structures & Algorithms</b></li>
-    <li>Deepening knowledge in <b>Software Engineering</b> principles & best practices</li>
-    <li>Exploring <b>Machine Learning</b> & <b>AI</b> for real-world solutions</li>
+    <li>Mastering <b>Java OOP & Frontend Development</b> for real-world applications</li>
+    <li>Improving <b>Software Engineering</b> practices & clean coding skills</li>
+    <li>Exploring <b>Machine Learning</b> basics for future projects</li>
+    <li>Studying <b>Cybersecurity fundamentals</b> and secure coding techniques</li>
   </ul>
 </div>
+
+---
 
 ## 👀 Interests
 
 <div align="center">
   <ul align="left">
     <li>Designing scalable and maintainable <b>Software Solutions</b></li>
-    <li>Leveraging <b>Artificial Intelligence</b> & <b>Machine Learning</b></li>
-    <li>Learning <b>Cybersecurity</b> fundamentals & secure coding practices</li>
+    <li>Building user-friendly <b>Frontend Applications</b></li>
+    <li>Learning modern <b>Web Development</b> and <b>Cloud</b> technologies</li>
   </ul>
+</div>
+
+---
+
+## 🏗️ Featured Project
+
+<div align="center">
+<ul align="left">
+  <li>💻 [ATM-Simulator](https://github.com/Sitikanta09/ATM-Simulator) – Java-based ATM simulation demonstrating OOP concepts</li>
+</ul>
 </div>
 
 ---
@@ -59,13 +74,13 @@
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4" alt="HTML5">
 <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4" alt="CSS3">
 
-### 🚀 DevOps
-<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db" alt="AWS">
-
-### 💬 Languages
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500" alt="JavaScript">
-<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500" alt="C">
+### 🚀 Backend & Languages
 <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500" alt="Java">
+<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500" alt="C">
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500" alt="JavaScript">
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db" alt="AWS">
 
 </div>
 
@@ -91,7 +106,6 @@
 <div align="center">
 
 **Email:** [sitikantadash56@gmail.com](mailto:sitikantadash56@gmail.com)  
-**Phone:** +91 9861096887
 
 </div>
 
