@@ -60,9 +60,7 @@
 
 ## 🔝 Most Used Languages
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitikanta09&layout=compact&langs_count=10&theme=radical" alt="Top Languages"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitikanta09&layout=compact&langs_count=10&theme=radical&cache_seconds=100" alt="Top Languages"/>
 
 ---
 
