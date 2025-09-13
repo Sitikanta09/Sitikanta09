@@ -59,10 +59,12 @@
 ---
 
 ## 🔝 Most Used Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitikanta09&layout=compact&langs_count=10&theme=radical&cache_seconds=1800&v=2" />
-
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitikanta09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=420" 
+    alt="Top Languages"
+  />
+</p>
 
 ## 💻 Tech Stack
 
