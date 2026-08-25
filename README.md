@@ -239,16 +239,6 @@ useful, and scalable.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sitikanta09&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers,
@@ -264,6 +254,10 @@ engineers, and people working on interesting technology.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="mailto:sitikantadash56@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
@@ -274,4 +268,5 @@ engineers, and people working on interesting technology.
 
 <i>Turning ideas into practical technology.</i>
 
+</div>
 </div>
