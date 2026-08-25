@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sitikanta Dash
+# Hi, I'm Sitikanta Dash
 
 ### Aspiring Software Engineer • Data & AI/ML Enthusiast • CyberSecurity Entusiast
 
@@ -239,13 +239,11 @@ useful, and scalable.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sitikanta09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sitikanta09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sitikanta09&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
